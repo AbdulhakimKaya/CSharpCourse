@@ -12,3 +12,4 @@ C:\Users\abdul\RiderProjects\CSharpCourse\TypesAndVariables\obj\Debug\net8.0\ref
 C:\Users\abdul\RiderProjects\CSharpCourse\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.pdb
 C:\Users\abdul\RiderProjects\CSharpCourse\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.genruntimeconfig.cache
 C:\Users\abdul\RiderProjects\CSharpCourse\TypesAndVariables\obj\Debug\net8.0\ref\TypesAndVariables.dll
+C:\Users\abdul\RiderProjects\CSharpCourse\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.sourcelink.json
