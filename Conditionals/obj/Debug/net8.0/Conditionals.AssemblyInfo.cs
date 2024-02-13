@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TypesAndVariables")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Conditionals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e0100ba5281d581e73f84a28baa33332e948a47")]
-[assembly: System.Reflection.AssemblyProductAttribute("TypesAndVariables")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TypesAndVariables")]
+[assembly: System.Reflection.AssemblyProductAttribute("Conditionals")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Conditionals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
