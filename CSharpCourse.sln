@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{A91A8B06-FA95-4C15-BC2E-9EF5DC0518C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{A3A937B2-00BF-4DF9-AA94-024ABA1B9482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{A91A8B06-FA95-4C15-BC2E-9EF5DC0518C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A91A8B06-FA95-4C15-BC2E-9EF5DC0518C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A91A8B06-FA95-4C15-BC2E-9EF5DC0518C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A937B2-00BF-4DF9-AA94-024ABA1B9482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A937B2-00BF-4DF9-AA94-024ABA1B9482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A937B2-00BF-4DF9-AA94-024ABA1B9482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A937B2-00BF-4DF9-AA94-024ABA1B9482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
