@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{576A4279-BE21-40D3-96E3-F8DABAC3B412}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{8C800730-D976-4FB3-AF51-455E3F5CAF70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{576A4279-BE21-40D3-96E3-F8DABAC3B412}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{576A4279-BE21-40D3-96E3-F8DABAC3B412}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{576A4279-BE21-40D3-96E3-F8DABAC3B412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C800730-D976-4FB3-AF51-455E3F5CAF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C800730-D976-4FB3-AF51-455E3F5CAF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C800730-D976-4FB3-AF51-455E3F5CAF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C800730-D976-4FB3-AF51-455E3F5CAF70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
