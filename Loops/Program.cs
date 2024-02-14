@@ -4,12 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        // ForLoop();
-        //
-        // WhileLoop();
-        //
-        // DoWhileLoop();
+        ForLoop();
         
+        WhileLoop();
+        
+        DoWhileLoop();
+        
+        ForeachLoop();
+    }
+
+    private static void ForeachLoop()
+    {
         string[] students = { "Engin", "Abdulhakim", "Furkan" };
 
         foreach (string student in students)
